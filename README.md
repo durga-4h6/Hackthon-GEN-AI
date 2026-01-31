@@ -1,6 +1,9 @@
 # Hackthon-GEN-AI
+
 # Food Delivery Orders Dataset
+
 # Overview
+
 This repository contains an Excel dataset related to a food delivery platform.
 The dataset includes information about users, orders, cities, restaurants, memberships, ratings, and revenue.
 It is suitable for data analysis, SQL practice, and interview preparation.
@@ -14,6 +17,7 @@ Order value and revenue
 
 # User and order identifiers
 # Key Columns
+
 order_id – Unique order identifier
 user_id – Unique user identifier
 membership_type – Gold or Non-Gold
